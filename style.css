@@ -1,0 +1,39 @@
+body{margin: 0;
+padding: 0;}
+.second-area{background-color: #9991c0;
+padding: 20px 20px;
+}
+.birth img{width: 430px;
+height: 370px;
+margin-left: 10%;
+margin-top: 10%;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+}
+.birth{width: 50%;
+float: left;}
+
+.fashol .left{width: 50%;
+float: left;
+}
+.second-area::after{content: '';
+clear: both;
+display: block;}
+.fashol h1{color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 40px;
+margin-top: 5%;}
+.fashol p{color: #ffffff;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 18px;}
+.fashol .fas{color: #ff6a00;
+font-weight: bold;}
+.fashol .blo{font-weight: bold;}
+.fashol .beg{font-weight: bold;}
+.fashol .learn{font-weight: bold;}
+.fashol .gel{font-weight: bold;}
+.fashol .love{font-weight: bold;}
+.fashol .fin{font-weight: bold;}
+.site{float: left;
+width: 80%;
+margin-left: 5%;
+}
